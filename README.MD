@@ -1,6 +1,8 @@
 # PROJECT NO. 7
 
-This is my 7th project of Web Development. This is my first Responsive project that works on large(Desktop & Laptop) as well as small screens(Mobile Devices). In this project I have learnt a lot of new concepts of CSS like positioning different elements, display and float properties, Media Queries hovering effects etc. 
+This is my _**7th project**_ of Web Development. This is my **first Responsive project** that works on large(Desktop & Laptop) as well as small screens(Mobile Devices). In this project I have learnt a lot of new concepts of CSS like  _**positioning different elements, display and float properties, Media Queries hovering effects**_ etc. 
+
+> [Go to my project](https://project-6-by-noman.netlify.app/)
 
 FULL WEBPAGE:
 ![Project2]( /sc/full.png "proj2 image")
